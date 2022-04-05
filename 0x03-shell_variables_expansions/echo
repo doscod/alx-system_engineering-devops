@@ -1,1 +1,0 @@
-echo "$PATH | tr -s ":" "\n" | wc -l" /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
